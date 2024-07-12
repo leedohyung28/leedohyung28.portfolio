@@ -13,7 +13,7 @@ new TypeIt("#eng-main", {
   .type("Hello, ")
   .move(null, { to: "END" })
   .break()
-  .type("<strong><i>A Web Developer</i></strong>")
+  .type("<strong><i>A Developer</i></strong>")
   .break()
   .type("with <strong>open minds</strong> and <strong> ears</strong>")
   .go();
