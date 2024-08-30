@@ -39,7 +39,7 @@ roadAnalysis.innerHTML = `
 
     <hr style="border: 1px solid white; width: 100%;">
     <details>
-    <summary>Tasks</summary>
+    <summary>Tasks and a Role in the Project</summary>
     <p>After AI data selection and labelling, select an AI deep learning model and finetune it</p>
     <p>Porting finetuned AI deep learning models to Jetson Nano devices and improving performance/speed</p>
     </details>
